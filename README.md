@@ -1,4 +1,4 @@
-# Yearbook Digital 2024
+# Yearbook Digital 2025
 
 <div align="center">
   <img src="Screenshot.png" alt="Yearbook Preview" width="800"/>
@@ -9,7 +9,7 @@
 
 ## 📑 Daftar Isi
 
-- [Yearbook Digital 2024](#yearbook-digital-2024)
+- [Yearbook Digital 2025](#yearbook-digital-2025)
   - [📑 Daftar Isi](#-daftar-isi)
   - [📝 Deskripsi](#-deskripsi)
   - [✨ Fitur Utama](#-fitur-utama)
